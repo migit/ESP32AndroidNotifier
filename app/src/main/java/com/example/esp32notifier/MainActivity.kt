@@ -30,7 +30,7 @@ import java.net.URL
 
 @Suppress("DEPRECATION")
 class MainActivity : ComponentActivity() {
-    private val API_ENDPOINT = "http://bezainternational.org/tvr/"
+    private val API_ENDPOINT = "API URL GOES HERE"
     private val NOTIFICATION_CHANNEL_ID = "1"
     private val NOTIFICATION_CHANNEL_NAME = "Default"
     private var previousId = "0"
