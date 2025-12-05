@@ -6,10 +6,10 @@
 
 <p align="center">
  
- <img width="768" height="504" alt="ESP32AndroidNotifier_ Real-time Notifications from Your ESP32 to Android - visual selection" src="https://github.com/user-attachments/assets/422e42d0-5e88-4b29-9707-5c4b4d5b3422" />
+<!-- <img width="768" height="504" alt="ESP32AndroidNotifier_ Real-time Notifications from Your ESP32 to Android - visual selection" src="https://github.com/user-attachments/assets/422e42d0-5e88-4b29-9707-5c4b4d5b3422" /> --> 
 <!--  <img width="1536" height="1024" alt="esp32notifier" src="https://github.com/user-attachments/assets/c39fae85-e74d-412e-af43-fbd6d835982f" /> --> 
 
-<!--  ![ESP32 Android Notifier](https://github.com/migit/ESP32AndroidNotifier/assets/6859479/55790b6a-7855-4efd-abfd-43edaf4ece28) --> 
+  ![ESP32 Android Notifier](https://github.com/migit/ESP32AndroidNotifier/assets/6859479/55790b6a-7855-4efd-abfd-43edaf4ece28) 
  
 </p>
 
