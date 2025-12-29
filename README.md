@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](#license)
 [![Languages: Java | Android](https://img.shields.io/badge/languages-Java%20%7C%20Android-green.svg)](#tech-stack)
+![ESP32](https://img.shields.io/badge/platform-ESP32-blue)
 [![GitHub repo size](https://img.shields.io/github/repo-size/migit/ESP32AndroidNotifier)](#)
 
 <p align="center">
